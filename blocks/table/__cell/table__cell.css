@@ -1,0 +1,10 @@
+.table__cell{
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 250px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
